@@ -1,6 +1,6 @@
 # Web-Projects
 
-Here you will find all the basic projects of web development.
+Here you will find all the basic projects of web development(will be updating weekly or monthly).
 
 ## Projects:
 - Calculator
