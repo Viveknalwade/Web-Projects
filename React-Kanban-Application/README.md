@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 - select folder and open terminal and write command: npm install , this will install the dependencies ,json files and node_modules.(Note: if `node_module` folder is already present then no need to install the packages and no need to run this command)
 - For starting project , write the command : `npm start`
 - Modify any fields if you want.
-- To run this project , write the command : `npm start` or `npm run dev` (if npm start doesn't work).
+- To run this project , write the command : `npm start` or `npm run dev` (if npm start doesn't work or shows any error).
