@@ -23,10 +23,10 @@ Install the `uuid` which allows you to generate Id's for projeect using:
 Install the fontawesome packages so that u can use icons for update & delete:
 
 this command is used to install the SVG core packages in fontawesome which makes the cions work.
-First use this : `npm i --save @fortawesome/fontawesome-svg-core
+### First use this : `npm i --save @fortawesome/fontawesome-svg-core
 
-Secondly: -  `npm i --save @fortawesome/free-solid-svg-icons     (shift + enter key)
-          -  `npm i --save @fortawesome/free-regular-svg-icons     (now enter to install it)
+### Secondly: -  `npm i --save @fortawesome/free-solid-svg-icons     (shift + enter key)
+### - `npm i --save @fortawesome/free-regular-svg-icons     (now enter to install it)
 
 
 In the project directory, you can run:
