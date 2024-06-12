@@ -1,4 +1,4 @@
-# React KanBan Application 
+![Screenshot 2024-06-12 201500](https://github.com/Viveknalwade/Web-Projects/assets/163569779/8b6f8ef4-9af6-410b-96bd-c34eb489164d)# React KanBan Application 
 
 Developed a Kanban Application for task management and workflow visualization. Design a user-friendly interface with responsive UI/UX for seamless task management across devices. Enable users to create boards, lists, and cards representing tasks or work items. Implement drag-and-drop functionality for easy movement of cards between different lists or stages of workflow. 
 
@@ -17,3 +17,7 @@ You may also see any lint errors in the console.
 - For starting project , write the command : `npm start`
 - Modify any fields if you want.
 - To run this project , write the command : `npm start` or `npm run dev` (if npm start doesn't work or shows any error).
+
+## DEMO :
+
+![Screenshot 2024-06-12 201500](https://github.com/Viveknalwade/Web-Projects/assets/163569779/65b6dec1-68f2-4d17-a8fb-5d95029f02c0)
