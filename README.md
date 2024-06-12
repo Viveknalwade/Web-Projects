@@ -25,5 +25,5 @@ Here you will find all the basic projects of web development(will be updating we
 - Install the dependencies and packages you want to create project.
 - To run project : `npm start` or `npm run dev` (if `npm start` not working)
 - Note `Make sure you may have connected internet so that you can easily install the packages  , sometimes it may show error if internet is not connected`.
-- Installation may take time so be patience.
+- Installation may take time so keep patience.
 
